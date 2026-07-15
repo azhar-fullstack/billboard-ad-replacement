@@ -1,0 +1,5 @@
+path: D:/Editors/Vs code/Code/03_FiverrProjects/test/football_yolo_seg_combined
+train: images/train
+val: images/val
+names:
+  0: billboard

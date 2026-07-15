@@ -1,0 +1,53 @@
+{
+    "classes": [
+        {
+            "title": "mastercard",
+            "shape": "bitmap",
+            "color": "#F5A623",
+            "geometry_config": {}
+        },
+        {
+            "title": "nissan",
+            "shape": "bitmap",
+            "color": "#B7C743",
+            "geometry_config": {}
+        },
+        {
+            "title": "playstation",
+            "shape": "bitmap",
+            "color": "#F8E71C",
+            "geometry_config": {}
+        },
+        {
+            "title": "unicredit",
+            "shape": "bitmap",
+            "color": "#E9F320",
+            "geometry_config": {}
+        },
+        {
+            "title": "pepsi",
+            "shape": "bitmap",
+            "color": "#BD10E0",
+            "geometry_config": {}
+        },
+        {
+            "title": "adidas",
+            "shape": "bitmap",
+            "color": "#338FD1",
+            "geometry_config": {}
+        },
+        {
+            "title": "gazprom",
+            "shape": "bitmap",
+            "color": "#CA5CCC",
+            "geometry_config": {}
+        },
+        {
+            "title": "heineken",
+            "shape": "bitmap",
+            "color": "#9C25B6",
+            "geometry_config": {}
+        }
+    ],
+    "tags": []
+}
