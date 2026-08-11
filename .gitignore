@@ -1,8 +1,31 @@
 __pycache__/
+*.py[cod]
 .venv/
 venv/
+.env
+
+# Weights, runs & large media
+weights/
+runs/
 *.pt
+*.onnx
 *.mp4
 *.MP4
-.env
-__pycache__/
+*.avi
+*.mov
+*.mkv
+
+# Local training data (keep README only)
+datasets/billboard/**
+!datasets/billboard/README.md
+
+# Generated demo outputs (keep assets/before_after.jpg for README)
+demos/replaced.jpg
+demos/before_after.jpg
+demos/*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
